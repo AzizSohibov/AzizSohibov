@@ -4,7 +4,7 @@ html, body {
 
 .site-header {
 	position: relative;
-	background: url(../images/bg_top_rep.png) 100% 100% repeat-x;
+	background: url(https://azizsohibov.github.io/images/bg_top_rep.png) 100% 100% repeat-x;
 	min-height: 850px;
 }
 .site-header:before {
@@ -15,7 +15,7 @@ html, body {
 	top: 0;
 	right: 0;
 	bottom: 0;
-	background: url(../images/bg_top.jpg) 100% 100% no-repeat;
+	background: url(https://azizsohibov.github.io/images/bg_top.jpg) 100% 100% no-repeat;
 }
 .navbar {
 	width: 100%;
